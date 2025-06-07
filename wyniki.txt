@@ -1,0 +1,432 @@
+[Cuckoo] Rozmiar: 500, Zapełnienie: 0%
+  Średni czas insert: 38 ns
+  Średni czas remove: 38 ns
+[RobinHood] Rozmiar: 500, Zapełnienie: 0%
+  Średni czas insert: 38 ns
+  Średni czas remove: 30 ns
+[OpenAddressing] Rozmiar: 500, Zapełnienie: 0%
+  Średni czas insert: 39 ns
+  Średni czas remove: 45 ns
+[Cuckoo] Rozmiar: 500, Zapełnienie: 25%
+  Średni czas insert: 53 ns
+  Średni czas remove: 30 ns
+[RobinHood] Rozmiar: 500, Zapełnienie: 25%
+  Średni czas insert: 375 ns
+  Średni czas remove: 336 ns
+[OpenAddressing] Rozmiar: 500, Zapełnienie: 25%
+  Średni czas insert: 482 ns
+  Średni czas remove: 477 ns
+[Cuckoo] Rozmiar: 500, Zapełnienie: 50%
+  Średni czas insert: 56 ns
+  Średni czas remove: 34 ns
+[RobinHood] Rozmiar: 500, Zapełnienie: 50%
+  Średni czas insert: 899 ns
+  Średni czas remove: 822 ns
+[OpenAddressing] Rozmiar: 500, Zapełnienie: 50%
+  Średni czas insert: 1220 ns
+  Średni czas remove: 1044 ns
+[Cuckoo] Rozmiar: 500, Zapełnienie: 75%
+  Średni czas insert: 69 ns
+  Średni czas remove: 45 ns
+[RobinHood] Rozmiar: 500, Zapełnienie: 75%
+  Średni czas insert: 1603 ns
+  Średni czas remove: 1526 ns
+[OpenAddressing] Rozmiar: 500, Zapełnienie: 75%
+  Średni czas insert: 2001 ns
+  Średni czas remove: 1673 ns
+[Cuckoo] Rozmiar: 500, Zapełnienie: 99%
+  Średni czas insert: 67 ns
+  Średni czas remove: 40 ns
+[RobinHood] Rozmiar: 500, Zapełnienie: 99%
+  Średni czas insert: 1956 ns
+  Średni czas remove: 1792 ns
+[OpenAddressing] Rozmiar: 500, Zapełnienie: 99%
+  Średni czas insert: 2590 ns
+  Średni czas remove: 2336 ns
+[Cuckoo] Rozmiar: 500, Zapełnienie: 99.7%
+  Średni czas insert: 73 ns
+  Średni czas remove: 49 ns
+[RobinHood] Rozmiar: 500, Zapełnienie: 99.7%
+  Średni czas insert: 1999 ns
+  Średni czas remove: 1826 ns
+[OpenAddressing] Rozmiar: 500, Zapełnienie: 99.7%
+  Średni czas insert: 2909 ns
+  Średni czas remove: 2646 ns
+[Cuckoo] Rozmiar: 1000, Zapełnienie: 0%
+  Średni czas insert: 44 ns
+  Średni czas remove: 43 ns
+[RobinHood] Rozmiar: 1000, Zapełnienie: 0%
+  Średni czas insert: 40 ns
+  Średni czas remove: 30 ns
+[OpenAddressing] Rozmiar: 1000, Zapełnienie: 0%
+  Średni czas insert: 38 ns
+  Średni czas remove: 38 ns
+[Cuckoo] Rozmiar: 1000, Zapełnienie: 25%
+  Średni czas insert: 59 ns
+  Średni czas remove: 36 ns
+[RobinHood] Rozmiar: 1000, Zapełnienie: 25%
+  Średni czas insert: 911 ns
+  Średni czas remove: 833 ns
+[OpenAddressing] Rozmiar: 1000, Zapełnienie: 25%
+  Średni czas insert: 1179 ns
+  Średni czas remove: 1119 ns
+[Cuckoo] Rozmiar: 1000, Zapełnienie: 50%
+  Średni czas insert: 66 ns
+  Średni czas remove: 47 ns
+[RobinHood] Rozmiar: 1000, Zapełnienie: 50%
+  Średni czas insert: 1981 ns
+  Średni czas remove: 1811 ns
+[OpenAddressing] Rozmiar: 1000, Zapełnienie: 50%
+  Średni czas insert: 2536 ns
+  Średni czas remove: 2408 ns
+[Cuckoo] Rozmiar: 1000, Zapełnienie: 75%
+  Średni czas insert: 43 ns
+  Średni czas remove: 23 ns
+[RobinHood] Rozmiar: 1000, Zapełnienie: 75%
+  Średni czas insert: 3071 ns
+  Średni czas remove: 2829 ns
+[OpenAddressing] Rozmiar: 1000, Zapełnienie: 75%
+  Średni czas insert: 4063 ns
+  Średni czas remove: 3602 ns
+[Cuckoo] Rozmiar: 1000, Zapełnienie: 99%
+  Średni czas insert: 80 ns
+  Średni czas remove: 54 ns
+[RobinHood] Rozmiar: 1000, Zapełnienie: 99%
+  Średni czas insert: 4112 ns
+  Średni czas remove: 3742 ns
+[OpenAddressing] Rozmiar: 1000, Zapełnienie: 99%
+  Średni czas insert: 5451 ns
+  Średni czas remove: 4837 ns
+[Cuckoo] Rozmiar: 1000, Zapełnienie: 99.7%
+  Średni czas insert: 69 ns
+  Średni czas remove: 36 ns
+[RobinHood] Rozmiar: 1000, Zapełnienie: 99.7%
+  Średni czas insert: 4133 ns
+  Średni czas remove: 3772 ns
+[OpenAddressing] Rozmiar: 1000, Zapełnienie: 99.7%
+  Średni czas insert: 5483 ns
+  Średni czas remove: 4808 ns
+[Cuckoo] Rozmiar: 5000, Zapełnienie: 0%
+  Średni czas insert: 40 ns
+  Średni czas remove: 39 ns
+[RobinHood] Rozmiar: 5000, Zapełnienie: 0%
+  Średni czas insert: 37 ns
+  Średni czas remove: 34 ns
+[OpenAddressing] Rozmiar: 5000, Zapełnienie: 0%
+  Średni czas insert: 32 ns
+  Średni czas remove: 32 ns
+[Cuckoo] Rozmiar: 5000, Zapełnienie: 25%
+  Średni czas insert: 69 ns
+  Średni czas remove: 42 ns
+[RobinHood] Rozmiar: 5000, Zapełnienie: 25%
+  Średni czas insert: 5279 ns
+  Średni czas remove: 4877 ns
+[OpenAddressing] Rozmiar: 5000, Zapełnienie: 25%
+  Średni czas insert: 7106 ns
+  Średni czas remove: 6101 ns
+[Cuckoo] Rozmiar: 5000, Zapełnienie: 50%
+  Średni czas insert: 58 ns
+  Średni czas remove: 32 ns
+[RobinHood] Rozmiar: 5000, Zapełnienie: 50%
+  Średni czas insert: 13287 ns
+  Średni czas remove: 11552 ns
+[OpenAddressing] Rozmiar: 5000, Zapełnienie: 50%
+  Średni czas insert: 13796 ns
+  Średni czas remove: 12389 ns
+[Cuckoo] Rozmiar: 5000, Zapełnienie: 75%
+  Średni czas insert: 50 ns
+  Średni czas remove: 30 ns
+[RobinHood] Rozmiar: 5000, Zapełnienie: 75%
+  Średni czas insert: 17616 ns
+  Średni czas remove: 16025 ns
+[OpenAddressing] Rozmiar: 5000, Zapełnienie: 75%
+  Średni czas insert: 21535 ns
+  Średni czas remove: 18527 ns
+[Cuckoo] Rozmiar: 5000, Zapełnienie: 99%
+  Średni czas insert: 73 ns
+  Średni czas remove: 41 ns
+[RobinHood] Rozmiar: 5000, Zapełnienie: 99%
+  Średni czas insert: 21158 ns
+  Średni czas remove: 19363 ns
+[OpenAddressing] Rozmiar: 5000, Zapełnienie: 99%
+  Średni czas insert: 30519 ns
+  Średni czas remove: 26417 ns
+[Cuckoo] Rozmiar: 5000, Zapełnienie: 99.7%
+  Średni czas insert: 67 ns
+  Średni czas remove: 43 ns
+[RobinHood] Rozmiar: 5000, Zapełnienie: 99.7%
+  Średni czas insert: 21368 ns
+  Średni czas remove: 19441 ns
+[OpenAddressing] Rozmiar: 5000, Zapełnienie: 99.7%
+  Średni czas insert: 29046 ns
+  Średni czas remove: 25019 ns
+[Cuckoo] Rozmiar: 10000, Zapełnienie: 0%
+  Średni czas insert: 26 ns
+  Średni czas remove: 28 ns
+[RobinHood] Rozmiar: 10000, Zapełnienie: 0%
+  Średni czas insert: 39 ns
+  Średni czas remove: 43 ns
+[OpenAddressing] Rozmiar: 10000, Zapełnienie: 0%
+  Średni czas insert: 23 ns
+  Średni czas remove: 35 ns
+[Cuckoo] Rozmiar: 10000, Zapełnienie: 25%
+  Średni czas insert: 66 ns
+  Średni czas remove: 32 ns
+[RobinHood] Rozmiar: 10000, Zapełnienie: 25%
+  Średni czas insert: 10637 ns
+  Średni czas remove: 9658 ns
+[OpenAddressing] Rozmiar: 10000, Zapełnienie: 25%
+  Średni czas insert: 15078 ns
+  Średni czas remove: 14943 ns
+[Cuckoo] Rozmiar: 10000, Zapełnienie: 50%
+  Średni czas insert: 56 ns
+  Średni czas remove: 40 ns
+[RobinHood] Rozmiar: 10000, Zapełnienie: 50%
+  Średni czas insert: 21662 ns
+  Średni czas remove: 19616 ns
+[OpenAddressing] Rozmiar: 10000, Zapełnienie: 50%
+  Średni czas insert: 28810 ns
+  Średni czas remove: 24724 ns
+[Cuckoo] Rozmiar: 10000, Zapełnienie: 75%
+  Średni czas insert: 82 ns
+  Średni czas remove: 47 ns
+[RobinHood] Rozmiar: 10000, Zapełnienie: 75%
+  Średni czas insert: 33026 ns
+  Średni czas remove: 30612 ns
+[OpenAddressing] Rozmiar: 10000, Zapełnienie: 75%
+  Średni czas insert: 43019 ns
+  Średni czas remove: 37156 ns
+[Cuckoo] Rozmiar: 10000, Zapełnienie: 99%
+  Średni czas insert: 56 ns
+  Średni czas remove: 38 ns
+[RobinHood] Rozmiar: 10000, Zapełnienie: 99%
+  Średni czas insert: 43991 ns
+  Średni czas remove: 39999 ns
+[OpenAddressing] Rozmiar: 10000, Zapełnienie: 99%
+  Średni czas insert: 58041 ns
+  Średni czas remove: 50636 ns
+[Cuckoo] Rozmiar: 10000, Zapełnienie: 99.7%
+  Średni czas insert: 67 ns
+  Średni czas remove: 44 ns
+[RobinHood] Rozmiar: 10000, Zapełnienie: 99.7%
+  Średni czas insert: 43387 ns
+  Średni czas remove: 40128 ns
+[OpenAddressing] Rozmiar: 10000, Zapełnienie: 99.7%
+  Średni czas insert: 58329 ns
+  Średni czas remove: 50313 ns
+[Cuckoo] Rozmiar: 50000, Zapełnienie: 0%
+  Średni czas insert: 49 ns
+  Średni czas remove: 47 ns
+[RobinHood] Rozmiar: 50000, Zapełnienie: 0%
+  Średni czas insert: 37 ns
+  Średni czas remove: 31 ns
+[OpenAddressing] Rozmiar: 50000, Zapełnienie: 0%
+  Średni czas insert: 41 ns
+  Średni czas remove: 56 ns
+[Cuckoo] Rozmiar: 50000, Zapełnienie: 25%
+  Średni czas insert: 62 ns
+  Średni czas remove: 27 ns
+[RobinHood] Rozmiar: 50000, Zapełnienie: 25%
+  Średni czas insert: 56997 ns
+  Średni czas remove: 52397 ns
+[OpenAddressing] Rozmiar: 50000, Zapełnienie: 25%
+  Średni czas insert: 75482 ns
+  Średni czas remove: 66826 ns
+[Cuckoo] Rozmiar: 50000, Zapełnienie: 50%
+  Średni czas insert: 60 ns
+  Średni czas remove: 37 ns
+[RobinHood] Rozmiar: 50000, Zapełnienie: 50%
+  Średni czas insert: 113743 ns
+  Średni czas remove: 104886 ns
+[OpenAddressing] Rozmiar: 50000, Zapełnienie: 50%
+  Średni czas insert: 150170 ns
+  Średni czas remove: 136767 ns
+[Cuckoo] Rozmiar: 50000, Zapełnienie: 75%
+  Średni czas insert: 62 ns
+  Średni czas remove: 43 ns
+[RobinHood] Rozmiar: 50000, Zapełnienie: 75%
+  Średni czas insert: 162696 ns
+  Średni czas remove: 148051 ns
+[OpenAddressing] Rozmiar: 50000, Zapełnienie: 75%
+  Średni czas insert: 220884 ns
+  Średni czas remove: 191248 ns
+[Cuckoo] Rozmiar: 50000, Zapełnienie: 99%
+  Średni czas insert: 63 ns
+  Średni czas remove: 41 ns
+[RobinHood] Rozmiar: 50000, Zapełnienie: 99%
+  Średni czas insert: 215377 ns
+  Średni czas remove: 199933 ns
+[OpenAddressing] Rozmiar: 50000, Zapełnienie: 99%
+  Średni czas insert: 299329 ns
+  Średni czas remove: 256668 ns
+[Cuckoo] Rozmiar: 50000, Zapełnienie: 99.7%
+  Średni czas insert: 52 ns
+  Średni czas remove: 27 ns
+[RobinHood] Rozmiar: 50000, Zapełnienie: 99.7%
+  Średni czas insert: 219291 ns
+  Średni czas remove: 203164 ns
+[OpenAddressing] Rozmiar: 50000, Zapełnienie: 99.7%
+  Średni czas insert: 289037 ns
+  Średni czas remove: 255258 ns
+[Cuckoo] Rozmiar: 100000, Zapełnienie: 0%
+  Średni czas insert: 38 ns
+  Średni czas remove: 34 ns
+[RobinHood] Rozmiar: 100000, Zapełnienie: 0%
+  Średni czas insert: 37 ns
+  Średni czas remove: 31 ns
+[OpenAddressing] Rozmiar: 100000, Zapełnienie: 0%
+  Średni czas insert: 44 ns
+  Średni czas remove: 31 ns
+[Cuckoo] Rozmiar: 100000, Zapełnienie: 25%
+  Średni czas insert: 52 ns
+  Średni czas remove: 38 ns
+[RobinHood] Rozmiar: 100000, Zapełnienie: 25%
+  Średni czas insert: 107994 ns
+  Średni czas remove: 98571 ns
+[OpenAddressing] Rozmiar: 100000, Zapełnienie: 25%
+  Średni czas insert: 146774 ns
+  Średni czas remove: 125138 ns
+[Cuckoo] Rozmiar: 100000, Zapełnienie: 50%
+  Średni czas insert: 62 ns
+  Średni czas remove: 35 ns
+[RobinHood] Rozmiar: 100000, Zapełnienie: 50%
+  Średni czas insert: 225942 ns
+  Średni czas remove: 212503 ns
+[OpenAddressing] Rozmiar: 100000, Zapełnienie: 50%
+  Średni czas insert: 304828 ns
+  Średni czas remove: 270075 ns
+[Cuckoo] Rozmiar: 100000, Zapełnienie: 75%
+  Średni czas insert: 59 ns
+  Średni czas remove: 36 ns
+[RobinHood] Rozmiar: 100000, Zapełnienie: 75%
+  Średni czas insert: 327749 ns
+  Średni czas remove: 301278 ns
+[OpenAddressing] Rozmiar: 100000, Zapełnienie: 75%
+  Średni czas insert: 440237 ns
+  Średni czas remove: 386921 ns
+[Cuckoo] Rozmiar: 100000, Zapełnienie: 99%
+  Średni czas insert: 70 ns
+  Średni czas remove: 36 ns
+[RobinHood] Rozmiar: 100000, Zapełnienie: 99%
+  Średni czas insert: 438275 ns
+  Średni czas remove: 401918 ns
+[OpenAddressing] Rozmiar: 100000, Zapełnienie: 99%
+  Średni czas insert: 574117 ns
+  Średni czas remove: 504300 ns
+[Cuckoo] Rozmiar: 100000, Zapełnienie: 99.7%
+  Średni czas insert: 64 ns
+  Średni czas remove: 50 ns
+[RobinHood] Rozmiar: 100000, Zapełnienie: 99.7%
+  Średni czas insert: 429070 ns
+  Średni czas remove: 394433 ns
+[OpenAddressing] Rozmiar: 100000, Zapełnienie: 99.7%
+  Średni czas insert: 590296 ns
+  Średni czas remove: 516733 ns
+[Cuckoo] Rozmiar: 500000, Zapełnienie: 0%
+  Średni czas insert: 37 ns
+  Średni czas remove: 37 ns
+[RobinHood] Rozmiar: 500000, Zapełnienie: 0%
+  Średni czas insert: 40 ns
+  Średni czas remove: 38 ns
+[OpenAddressing] Rozmiar: 500000, Zapełnienie: 0%
+  Średni czas insert: 40 ns
+  Średni czas remove: 33 ns
+[Cuckoo] Rozmiar: 500000, Zapełnienie: 25%
+  Średni czas insert: 78 ns
+  Średni czas remove: 43 ns
+[RobinHood] Rozmiar: 500000, Zapełnienie: 25%
+  Średni czas insert: 545592 ns
+  Średni czas remove: 496084 ns
+[OpenAddressing] Rozmiar: 500000, Zapełnienie: 25%
+  Średni czas insert: 736335 ns
+  Średni czas remove: 644810 ns
+[Cuckoo] Rozmiar: 500000, Zapełnienie: 50%
+  Średni czas insert: 57 ns
+  Średni czas remove: 21 ns
+[RobinHood] Rozmiar: 500000, Zapełnienie: 50%
+  Średni czas insert: 1099954 ns
+  Średni czas remove: 1001914 ns
+[OpenAddressing] Rozmiar: 500000, Zapełnienie: 50%
+  Średni czas insert: 1464350 ns
+  Średni czas remove: 1299906 ns
+[Cuckoo] Rozmiar: 500000, Zapełnienie: 75%
+  Średni czas insert: 66 ns
+  Średni czas remove: 38 ns
+[RobinHood] Rozmiar: 500000, Zapełnienie: 75%
+  Średni czas insert: 1655436 ns
+  Średni czas remove: 1509109 ns
+[OpenAddressing] Rozmiar: 500000, Zapełnienie: 75%
+  Średni czas insert: 2199169 ns
+  Średni czas remove: 1931928 ns
+[Cuckoo] Rozmiar: 500000, Zapełnienie: 99%
+  Średni czas insert: 62 ns
+  Średni czas remove: 32 ns
+[RobinHood] Rozmiar: 500000, Zapełnienie: 99%
+  Średni czas insert: 2153836 ns
+  Średni czas remove: 1972180 ns
+[OpenAddressing] Rozmiar: 500000, Zapełnienie: 99%
+  Średni czas insert: 2907394 ns
+  Średni czas remove: 2561760 ns
+[Cuckoo] Rozmiar: 500000, Zapełnienie: 99.7%
+  Średni czas insert: 98 ns
+  Średni czas remove: 59 ns
+[RobinHood] Rozmiar: 500000, Zapełnienie: 99.7%
+  Średni czas insert: 2166790 ns
+  Średni czas remove: 2005952 ns
+[OpenAddressing] Rozmiar: 500000, Zapełnienie: 99.7%
+  Średni czas insert: 2888875 ns
+  Średni czas remove: 2533072 ns
+[Cuckoo] Rozmiar: 1000000, Zapełnienie: 0%
+  Średni czas insert: 41 ns
+  Średni czas remove: 36 ns
+[RobinHood] Rozmiar: 1000000, Zapełnienie: 0%
+  Średni czas insert: 38 ns
+  Średni czas remove: 29 ns
+[OpenAddressing] Rozmiar: 1000000, Zapełnienie: 0%
+  Średni czas insert: 54 ns
+  Średni czas remove: 51 ns
+[Cuckoo] Rozmiar: 1000000, Zapełnienie: 25%
+  Średni czas insert: 65 ns
+  Średni czas remove: 28 ns
+[RobinHood] Rozmiar: 1000000, Zapełnienie: 25%
+  Średni czas insert: 1085003 ns
+  Średni czas remove: 989312 ns
+[OpenAddressing] Rozmiar: 1000000, Zapełnienie: 25%
+  Średni czas insert: 1488171 ns
+  Średni czas remove: 1297541 ns
+[Cuckoo] Rozmiar: 1000000, Zapełnienie: 50%
+  Średni czas insert: 64 ns
+  Średni czas remove: 43 ns
+[RobinHood] Rozmiar: 1000000, Zapełnienie: 50%
+  Średni czas insert: 2150695 ns
+  Średni czas remove: 1995821 ns
+[OpenAddressing] Rozmiar: 1000000, Zapełnienie: 50%
+  Średni czas insert: 2886807 ns
+  Średni czas remove: 2540989 ns
+[Cuckoo] Rozmiar: 1000000, Zapełnienie: 75%
+  Średni czas insert: 60 ns
+  Średni czas remove: 36 ns
+[RobinHood] Rozmiar: 1000000, Zapełnienie: 75%
+  Średni czas insert: 3237537 ns
+  Średni czas remove: 2990488 ns
+[OpenAddressing] Rozmiar: 1000000, Zapełnienie: 75%
+  Średni czas insert: 4308704 ns
+  Średni czas remove: 3839195 ns
+[Cuckoo] Rozmiar: 1000000, Zapełnienie: 99%
+  Średni czas insert: 73 ns
+  Średni czas remove: 44 ns
+[RobinHood] Rozmiar: 1000000, Zapełnienie: 99%
+  Średni czas insert: 4279378 ns
+  Średni czas remove: 3973425 ns
+[OpenAddressing] Rozmiar: 1000000, Zapełnienie: 99%
+  Średni czas insert: 5700826 ns
+  Średni czas remove: 5076292 ns
+[Cuckoo] Rozmiar: 1000000, Zapełnienie: 99.7%
+  Średni czas insert: 68 ns
+  Średni czas remove: 34 ns
+[RobinHood] Rozmiar: 1000000, Zapełnienie: 99.7%
+  Średni czas insert: 4293236 ns
+  Średni czas remove: 4019851 ns
+[OpenAddressing] Rozmiar: 1000000, Zapełnienie: 99.7%
+  Średni czas insert: 5858664 ns
+  Średni czas remove: 5173616 ns
