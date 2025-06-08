@@ -1,5 +1,5 @@
 # Projekt 3 - Struktury danych
-Implementacja funkcji haszujących oraz porównanie operacji dodawania oraz usuwania elementu.
+Implementacja funkcji haszujących - Haszowania Kukułkowego, Haszowania Open Address oraz Haszowania Robin Hooda oraz porównanie operacji dodawania insert() oraz usuwania remove() elementów.
 
 [Sprawozdanie - Latex](https://www.overleaf.com/read/jwwzmhwsnjhz#722917)
 
